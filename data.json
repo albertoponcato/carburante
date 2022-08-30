@@ -1,0 +1,90 @@
+{
+    "version": 8277,
+    "payload": {
+        "logos": [{
+                "Key": "AgipEni",
+                "Value": ""
+            },
+            {
+                "Key": "Api-Ip",
+                "Value": ""
+            },
+            {
+                "Key": "Auchan",
+                "Value": ""
+            },
+            {
+                "Key": "BC",
+                "Value": ""
+            },
+            {
+                "Key": "Benza",
+                "Value": ""
+            },
+            {
+                "Key": "BC",
+                "Value": ""
+            },
+            {
+                "Key": "Beyfin",
+                "Value": ""
+            },
+            {
+                "Key": "BiancoCarburanti",
+                "Value": ""
+            },
+            {
+                "Key": "Bogoni",
+                "Value": ""
+            },
+            {
+                "Key": "Costantin",
+                "Value": ""
+            },
+            {
+                "Key": "Esso",
+                "Value": ""
+            },
+            {
+                "Key": "KEROPETROL",
+                "Value": ""
+            },
+            {
+                "Key": "Loro",
+                "Value": ""
+            },
+            {
+                "Key": "Perin",
+                "Value": ""
+            },
+            {
+                "Key": "PompeBianche",
+                "Value": ""
+            },
+            {
+                "Key": "Q8",
+                "Value": ""
+            },
+            {
+                "Key": "SanMarcoPetroli",
+                "Value": ""
+            },
+            {
+                "Key": "Siafuel",
+                "Value": ""
+            },
+            {
+                "Key": "Tamoil",
+                "Value": ""
+            },
+            {
+                "Key": "Toil",
+                "Value": ""
+            },
+            {
+                "Key": "Vega",
+                "Value": ""
+            }
+        ]
+    }
+}
