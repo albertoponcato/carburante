@@ -90,91 +90,91 @@
         "logos": [
             {
                 "Key": "AFPetroli",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/afpetroli.png"
             },
             {
                 "Key": "AgipEni",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/eni.png"
             },
             {
                 "Key": "Api-Ip",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/ip.png"
             },
             {
                 "Key": "Auchan",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/auchan.png"
             },
             {
                 "Key": "BC",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/bc.png"
             },
             {
                 "Key": "Benza",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/benza.png"
             },
             {
                 "Key": "Beyfin",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/beyfin.png"
             },
             {
                 "Key": "BiancoCarburanti",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/bianco.png"
             },
             {
                 "Key": "Bogoni",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/bogoni.png"
             },
             {
                 "Key": "Costantin",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/costantin.png"
             },
             {
                 "Key": "Esso",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/esso.png"
             },
             {
                 "Key": "KEROPETROL",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/keropetrol.png"
             },
             {
                 "Key": "Loro",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/loro.png"
             },
             {
                 "Key": "MetanautoGroup",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/metanautogroup.jpg"
             },
             {
                 "Key": "Perin",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/perin.png"
             },
             {
                 "Key": "PompeBianche",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/perin.png"
             },
             {
                 "Key": "Q8",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/q8.png"
             },
             {
                 "Key": "SanMarcoPetroli",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/sanmarcopetroli.png"
             },
             {
                 "Key": "Siafuel",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/siafuel.png"
             },
             {
                 "Key": "Tamoil",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/tamoil.png"
             },
             {
                 "Key": "Toil",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/toil.png"
             },
             {
                 "Key": "Vega",
-                "Value": ""
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/vega.png"
             }
         ]
     }
