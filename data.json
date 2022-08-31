@@ -1,89 +1,69 @@
 {
     "version": 8277,
     "payload": {
-        "logos": [{
-                "Key": "AgipEni",
-                "Value": ""
+        "logos": [
+            {
+                "AgipEni": ""
             },
             {
-                "Key": "Api-Ip",
-                "Value": ""
+                "Api-Ip": ""
             },
             {
-                "Key": "Auchan",
-                "Value": ""
+                "Auchan": ""
             },
             {
-                "Key": "BC",
-                "Value": ""
+                "BC": ""
             },
             {
-                "Key": "Benza",
-                "Value": ""
+                "Benza": ""
             },
             {
-                "Key": "BC",
-                "Value": ""
+                "BC": ""
             },
             {
-                "Key": "Beyfin",
-                "Value": ""
+                "Beyfin": ""
             },
             {
-                "Key": "BiancoCarburanti",
-                "Value": ""
+                "BiancoCarburanti": ""
             },
             {
-                "Key": "Bogoni",
-                "Value": ""
+                "Bogoni": ""
             },
             {
-                "Key": "Costantin",
-                "Value": ""
+                "Costantin": ""
             },
             {
-                "Key": "Esso",
-                "Value": ""
+                "Esso": ""
             },
             {
-                "Key": "KEROPETROL",
-                "Value": ""
+                "KEROPETROL": ""
             },
             {
-                "Key": "Loro",
-                "Value": ""
+                "Loro": ""
             },
             {
-                "Key": "Perin",
-                "Value": ""
+                "Perin": ""
             },
             {
-                "Key": "PompeBianche",
-                "Value": ""
+                "PompeBianche": ""
             },
             {
-                "Key": "Q8",
-                "Value": ""
+                "Q8": ""
             },
             {
-                "Key": "SanMarcoPetroli",
-                "Value": ""
+                "SanMarcoPetroli": ""
             },
             {
-                "Key": "Siafuel",
-                "Value": ""
+                "Siafuel": ""
             },
             {
-                "Key": "Tamoil",
-                "Value": ""
+                "Tamoil": ""
             },
             {
-                "Key": "Toil",
-                "Value": ""
+                "Toil": ""
             },
             {
-                "Key": "Vega",
-                "Value": ""
+                "Vega": ""
             }
         ]
     }
