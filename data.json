@@ -1,69 +1,180 @@
 {
     "version": 8277,
     "payload": {
+        "fuels": [
+            {
+                "Key": "Benzina",
+                "Value": "Benzina"
+            },
+            {
+                "Key": "Benzina speciale",
+                "Value": "Benzina speciale"
+            },
+            {
+                "Key": "Benzina WR 100",
+                "Value": "Benzina WR 100"
+            },
+            {
+                "Key": "Blue Diesel",
+                "Value": "Blue Diesel"
+            },
+            {
+                "Key": "Blue Super",
+                "Value": "Blue Super"
+            },
+            {
+                "Key": "Excellium Diesel",
+                "Value": "Excellium Diesel"
+            },
+            {
+                "Key": "F101",
+                "Value": "F101"
+            },
+            {
+                "Key": "Gasolio",
+                "Value": "Gasolio"
+            },
+            {
+                "Key": "Gasolio Energy D",
+                "Value": "Gasolio Energy D"
+            },
+            {
+                "Key": "Gasolio Premium",
+                "Value": "Gasolio Premium"
+            },
+            {
+                "Key": "Gasolio speciale",
+                "Value": "Gasolio speciale"
+            },
+            {
+                "Key": "GNL",
+                "Value": "GNL"
+            },
+            {
+                "Key": "GP DIESEL",
+                "Value": "GP DIESEL"
+            },
+            {
+                "Key": "GPL",
+                "Value": "GPL"
+            },
+            {
+                "Key": "Hi-Q Diesel",
+                "Value": "Hi-Q Diesel"
+            },
+            {
+                "Key": "HiQ Perform+",
+                "Value": "HiQ Perform+"
+            },
+            {
+                "Key": "L-GNC",
+                "Value": "L-GNC"
+            },
+            {
+                "Key": "Metano",
+                "Value": "Metano"
+            },
+            {
+                "Key": "S-Diesel",
+                "Value": "S-Diesel"
+            },
+            {
+                "Key": "SSP98",
+                "Value": "SSP98"
+            },
+            {
+                "Key": "Supreme Diesel",
+                "Value": "Supreme Diesel"
+            }
+        ],
         "logos": [
             {
-                "AgipEni": ""
+                "Key": "AFPetroli",
+                "Value": ""
             },
             {
-                "Api-Ip": ""
+                "Key": "AgipEni",
+                "Value": ""
             },
             {
-                "Auchan": ""
+                "Key": "Api-Ip",
+                "Value": ""
             },
             {
-                "BC": ""
+                "Key": "Auchan",
+                "Value": ""
             },
             {
-                "Benza": ""
+                "Key": "BC",
+                "Value": ""
             },
             {
-                "BC": ""
+                "Key": "Benza",
+                "Value": ""
             },
             {
-                "Beyfin": ""
+                "Key": "Beyfin",
+                "Value": ""
             },
             {
-                "BiancoCarburanti": ""
+                "Key": "BiancoCarburanti",
+                "Value": ""
             },
             {
-                "Bogoni": ""
+                "Key": "Bogoni",
+                "Value": ""
             },
             {
-                "Costantin": ""
+                "Key": "Costantin",
+                "Value": ""
             },
             {
-                "Esso": ""
+                "Key": "Esso",
+                "Value": ""
             },
             {
-                "KEROPETROL": ""
+                "Key": "KEROPETROL",
+                "Value": ""
             },
             {
-                "Loro": ""
+                "Key": "Loro",
+                "Value": ""
             },
             {
-                "Perin": ""
+                "Key": "MetanautoGroup",
+                "Value": ""
             },
             {
-                "PompeBianche": ""
+                "Key": "Perin",
+                "Value": ""
             },
             {
-                "Q8": ""
+                "Key": "PompeBianche",
+                "Value": ""
             },
             {
-                "SanMarcoPetroli": ""
+                "Key": "Q8",
+                "Value": ""
             },
             {
-                "Siafuel": ""
+                "Key": "SanMarcoPetroli",
+                "Value": ""
             },
             {
-                "Tamoil": ""
+                "Key": "Siafuel",
+                "Value": ""
             },
             {
-                "Toil": ""
+                "Key": "Tamoil",
+                "Value": ""
             },
             {
-                "Vega": ""
+                "Key": "Toil",
+                "Value": ""
+            },
+            {
+                "Key": "Vega",
+                "Value": ""
             }
         ]
     }
