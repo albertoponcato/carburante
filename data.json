@@ -150,7 +150,7 @@
             },
             {
                 "Key": "PompeBianche",
-                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/perin.png"
+                "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/pompebianche.png"
             },
             {
                 "Key": "Q8",
@@ -175,6 +175,20 @@
             {
                 "Key": "Vega",
                 "Value": "https://raw.githubusercontent.com/albertoponcato/carburante/main/logos/vega.png"
+            }
+        ],
+        "sorting": [
+            {
+                "Key": "Prezzo",
+                "Value": "price"
+            },
+            {
+                "Key": "Distanza",
+                "Value": "distance"
+            },
+            {
+                "Key": "Data ultimo aggiornamento",
+                "Value": "date"
             }
         ]
     }
